@@ -1,36 +1,42 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Installation
 
-## Getting Started
+1. Clone the repository: `git clone https://github.com/yourusername/learning-management-project.git`
+2. Install dependencies: `npm install` (or `yarn install`)
 
-First, run the development server:
+## Usage
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+1. Configure `supabase` for project like `database` `storage` And `auhentication`
+2. Run the application: `npm start` (or `yarn start`).
+3. Open the app in your web browser: `http://localhost:3000`.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Contact
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+For questions or support, please contact [Your Name] at [imran.contuct@gmail.com].
 
-## Learn More
+# Hi, I'm Imranul Hoque! 👋
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🛠 Tech
+`Html` `Css` `Javascript` `Nextjs` `Tailwindcss` `Typescript` `Nodejs` `Nestjs` and related tech
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## Project image
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![Spotify clone](./images/project.png)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Dynamic User Interface:
+SoundWave boasts a modern and dynamic user interface designed for an immersive and enjoyable music discovery experience. Navigating through your favorite genres, artists, and playlists has never been smoother.
+
+## Next.js Speed:
+Leveraging the speed and efficiency of Next.js, SoundWave ensures lightning-fast load times and responsiveness. Enjoy uninterrupted music playback and seamless transitions between pages.
+
+## Personalized Playlists:
+ Tailor your music journey with personalized playlists curated just for you. Our sophisticated recommendation engine analyzes your listening habits to create playlists that match your unique taste.
+
+
+## Artist Insights: 
+Dive deeper into the world of your favorite artists. SoundWave provides exclusive insights, interviews, and behind-the-scenes content, giving you a richer understanding of the music you love.
+
+## High-Quality Audio: 
+Immerse yourself in crystal-clear, high-quality audio. SoundWave ensures that every beat and note is delivered with precision, providing an unparalleled listening experience.
