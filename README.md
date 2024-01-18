@@ -1,13 +1,41 @@
-## Installation
+Clone the project
 
-1. Clone the repository: `git clone https://github.com/yourusername/learning-management-project.git`
-2. Install dependencies: `npm install` (or `yarn install`)
+```bash
+  git clone https://github.com/Imranul-hoque/spotify-clone.git
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
+
 
 ## Usage
 
 1. Configure `supabase` for project like `database` `storage` And `auhentication`
 2. Run the application: `npm start` (or `yarn start`).
 3. Open the app in your web browser: `http://localhost:3000`.
+
+
+## Folder Structure
+
+**Actions** : This folder is concern for fetching data from supabse but That one is not denoting regular server action in next js
+
+**Provider** : provider folder is only concern for application provider
 
 
 ## Contact
@@ -23,7 +51,7 @@ For questions or support, please contact [Your Name] at [imran.contuct@gmail.com
 
 ## Project image
 
-![Spotify clone](./images/project.png)
+<img src="./images/project.png" width="80%" height="200" />
 
 ## Dynamic User Interface:
 SoundWave boasts a modern and dynamic user interface designed for an immersive and enjoyable music discovery experience. Navigating through your favorite genres, artists, and playlists has never been smoother.
