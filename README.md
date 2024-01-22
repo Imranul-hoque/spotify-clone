@@ -51,7 +51,7 @@ For questions or support, please contact [Your Name] at [imran.contuct@gmail.com
 
 ## Music Platform
 
-<img src="./images/project.png" width="300" height="300" title="Music" />
+![Banner](./images/project.png)
 
 ## Dynamic User Interface:
 SoundWave boasts a modern and dynamic user interface designed for an immersive and enjoyable music discovery experience. Navigating through your favorite genres, artists, and playlists has never been smoother.
